@@ -1,3 +1,4 @@
+"use client"
 import ScrollButton from "./ScrollButton";
 
 export default function WelcomeScreen() {
