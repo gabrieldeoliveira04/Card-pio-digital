@@ -1,4 +1,4 @@
-
+"use client"
 
 import { menu } from "./data/menu";
 import ProductCard from "./components/ProductCard";
